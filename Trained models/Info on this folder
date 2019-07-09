@@ -1,0 +1,3 @@
+In this folder we are having two trained models with their weights.
+These models   :-- model-- gives apprx 80% accuracy
+           while model2-- gives more than 90% accuracy.
